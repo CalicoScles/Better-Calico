@@ -1,0 +1,56 @@
+/**
+* @name Better Calico
+* @version Auto Update
+* @description Made with Visual Studios
+* @author CalicoScles
+* @invite Comming Soon!
+* @Source Comming Soon!
+* @website Comming Soon!
+*/
+@import url("https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css");
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://fonts.googleapis.com/css2?family=Edu+SA+Beginner');
+:root {
+--background-image: url('https://68.media.tumblr.com/45bd117384c3126fa60d552a4b82699d/tumblr_os6jvy7Yi81vjxr9zo1_1280.gif');
+--background-image-blur: 0px;
+--background-image-size: contain;
+--background-image-position: center;
+--popout-modal-image: url('https://68.media.tumblr.com/45bd117384c3126fa60d552a4b82699d/tumblr_os6jvy7Yi81vjxr9zo1_1280.gif');
+--popout-modal-blur: 3px;
+--popout-modal-size: cover;
+--popout-modal-position: center;
+--home-button-image: url('https://i.imgur.com/Kyh8HVR.png');
+--home-button-size: contain;
+--home-button-position: center;
+--serverlist-brightness: 0.7;
+--left-brightness: 0.7;
+--middle-brightness: 0.7;
+--right-brightness: 0;
+--popout-modal-brightness: 0.7;
+--gradient-primary: 183,121,48;
+--gradient-secondary: 80,59,32;
+--gradient-direction: 313deg;
+--tint-colour: 255,42,238;
+--tint-brightness: 0;
+--window-padding: 4px;
+--window-roundness: 10px;
+--scrollbar-colour: #926B300D;
+--link-colour: #00b0f4;
+--show-gift-gif-buttons: block;
+--font: 'Edu SA Beginner';
+--update-notice-1: none;
+--rs-small-spacing: 2px;
+--rs-medium-spacing: 3px;
+--rs-large-spacing: 4px;
+--rs-small-width: 2px;
+--rs-medium-width: 3px;
+--rs-large-width: 4px;
+--rs-avatar-shape: 50%;
+--rs-online-color: #43b581;
+--rs-idle-color: #faa61a;
+--rs-dnd-color: #f04747;
+--rs-offline-color: #636b75;
+--rs-streaming-color: #643da7;
+--rs-invisible-color: #747f8d;
+--rs-phone-visible: block;
+}
